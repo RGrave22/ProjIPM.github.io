@@ -4,6 +4,7 @@
   "private": true,
   "author": "Creative Tim",
   "license": "See license in https://www.creative-tim.com/license",
+  "homepage": "https://rgrave22.github.io/ProjIPM.github.io/",
   "description": "React version of Material Kit 2 by Creative Tim",
   "bugs": {
     "url": "https://github.com/creativetimofficial/ct-material-kit-react/issues"
@@ -71,5 +72,5 @@
     "eslint-plugin-react": "7.32.2",
     "eslint-plugin-react-hooks": "4.6.0",
     "prettier": "2.8.7"
-  }
-}
+  },
+  
