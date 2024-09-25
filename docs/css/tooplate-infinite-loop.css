@@ -145,12 +145,12 @@ blockquote {
 /* Hero */
 
 #infinite {
-	background-color: #222;
-  background-image: url(../img/infinite-loop-01.jpg);
+	background-color: #ffffff;
+  background-image: url(../img/smart-home.jpg);
   background-repeat: no-repeat;
   height: 100vh;
-  min-height: 375px;
-  position: relative;
+  min-height: 500px;
+  position: sticky;
 }
 
 @media (min-height: 600px) and (min-width: 1920px) {
@@ -268,7 +268,7 @@ blockquote {
 /* Testimonials */
 #testimonials {
   color: white;
-  background-image: url(../img/infinite-loop-02.jpg);
+  background-image: url(../img/smart-homebacana.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-size: 100%;
